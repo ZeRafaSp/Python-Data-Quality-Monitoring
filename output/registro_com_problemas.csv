@@ -1,0 +1,9 @@
+id_transacao,id_cliente,data_transacao,valor,status,canal,tipo_problema
+1019,519.0,2026-09-10,-50.0,aprovado,app,Valor negativo
+1020,520.0,2026-09-10,4500.0,aprovado,pix,Duplicidade
+1020,520.0,2026-09-10,4500.0,aprovado,pix,Duplicidade
+1021,,2026-09-11,250.0,aprovado,app,Id do cliente ausente
+1022,522.0,,180.0,aprovado,web,Data invalida
+1023,523.0,2026-09-12,,aprovado,pix,Valor ausente
+1024,,2026-09-12,320.0,pendente,app,Status invalido; Id do cliente ausente
+1025,525.0,2026-09-13,99999.0,aprovado,app,Valor acima do limite

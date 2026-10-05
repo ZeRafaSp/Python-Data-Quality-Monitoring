@@ -1,0 +1,72 @@
+2026-10-05 11:21:06,428 - INFO - Inicio do monitoramento
+2026-10-05 11:21:06,483 - INFO - Arquivo CSV carregado com sucesso!
+2026-10-05 11:21:07,652 - WARNING - Valores ausentes encontrados: 4
+2026-10-05 11:21:07,652 - WARNING - Valores duplicados encontrados: 1
+2026-10-05 11:21:07,653 - WARNING - Valores negativos encontrados: 1
+2026-10-05 11:21:07,653 - WARNING - Valores acima do limite encontrados: 1
+2026-10-05 11:21:07,653 - WARNING - Status invalidos encontrados: 1
+2026-10-05 11:21:07,653 - WARNING - Datas invalidas encontradas: 1
+2026-10-05 11:21:07,653 - INFO - Monitoramento finalizado com status: ALERTA
+2026-10-05 11:26:35,385 - INFO - Inicio do monitoramento
+2026-10-05 11:26:35,477 - INFO - Arquivo CSV carregado com sucesso!
+2026-10-05 11:26:36,367 - WARNING - Valores ausentes encontrados: 4
+2026-10-05 11:26:36,367 - WARNING - Valores duplicados encontrados: 1
+2026-10-05 11:26:36,367 - WARNING - Valores negativos encontrados: 1
+2026-10-05 11:26:36,368 - WARNING - Valores acima do limite encontrados: 1
+2026-10-05 11:26:36,368 - WARNING - Status invalidos encontrados: 1
+2026-10-05 11:26:36,368 - WARNING - Datas invalidas encontradas: 1
+2026-10-05 11:26:36,368 - INFO - Monitoramento finalizado com status: ALERTA
+2026-10-05 11:32:01,046 - INFO - Inicio do monitoramento
+2026-10-05 11:32:01,106 - INFO - Arquivo CSV carregado com sucesso!
+2026-10-05 11:32:01,481 - WARNING - Valores ausentes encontrados: 4
+2026-10-05 11:32:01,482 - WARNING - Valores duplicados encontrados: 1
+2026-10-05 11:32:01,482 - WARNING - Valores negativos encontrados: 1
+2026-10-05 11:32:01,482 - WARNING - Valores acima do limite encontrados: 1
+2026-10-05 11:32:01,482 - WARNING - Status invalidos encontrados: 1
+2026-10-05 11:32:01,482 - WARNING - Datas invalidas encontradas: 1
+2026-10-05 11:32:01,482 - INFO - Monitoramento finalizado com status: FALHA
+2026-10-05 11:40:53,088 - INFO - Inicio do monitoramento
+2026-10-05 11:40:53,119 - INFO - Arquivo CSV carregado com sucesso!
+2026-10-05 11:40:53,305 - WARNING - Valores ausentes encontrados: 4
+2026-10-05 11:40:53,306 - WARNING - Valores duplicados encontrados: 1
+2026-10-05 11:40:53,306 - WARNING - Valores negativos encontrados: 1
+2026-10-05 11:40:53,306 - WARNING - Valores acima do limite encontrados: 1
+2026-10-05 11:40:53,306 - WARNING - Status invalidos encontrados: 1
+2026-10-05 11:40:53,306 - WARNING - Datas invalidas encontradas: 1
+2026-10-05 11:40:53,306 - INFO - Monitoramento finalizado com status: FALHA
+2026-10-05 14:14:00,112 - INFO - Inicio do monitoramento
+2026-10-05 14:14:00,162 - INFO - Arquivo CSV carregado com sucesso!
+2026-10-05 14:14:00,382 - WARNING - Valores ausentes encontrados: 4
+2026-10-05 14:14:00,382 - WARNING - Valores duplicados encontrados: 1
+2026-10-05 14:14:00,383 - WARNING - Valores negativos encontrados: 1
+2026-10-05 14:14:00,383 - WARNING - Valores acima do limite encontrados: 1
+2026-10-05 14:14:00,383 - WARNING - Status invalidos encontrados: 1
+2026-10-05 14:14:00,383 - WARNING - Datas invalidas encontradas: 1
+2026-10-05 14:14:00,383 - INFO - Monitoramento finalizado com status: FALHA
+2026-10-05 14:15:56,050 - INFO - Inicio do monitoramento
+2026-10-05 14:15:56,074 - INFO - Arquivo CSV carregado com sucesso!
+2026-10-05 14:15:56,333 - WARNING - Valores ausentes encontrados: 4
+2026-10-05 14:15:56,333 - WARNING - Valores duplicados encontrados: 1
+2026-10-05 14:15:56,334 - WARNING - Valores negativos encontrados: 1
+2026-10-05 14:15:56,334 - WARNING - Valores acima do limite encontrados: 1
+2026-10-05 14:15:56,334 - WARNING - Status invalidos encontrados: 1
+2026-10-05 14:15:56,334 - WARNING - Datas invalidas encontradas: 1
+2026-10-05 14:15:56,334 - INFO - Monitoramento finalizado com status: FALHA
+2026-10-05 14:18:03,539 - INFO - Inicio do monitoramento
+2026-10-05 14:18:03,560 - INFO - Arquivo CSV carregado com sucesso!
+2026-10-05 14:18:03,738 - WARNING - Valores ausentes encontrados: 4
+2026-10-05 14:18:03,738 - WARNING - Valores duplicados encontrados: 1
+2026-10-05 14:18:03,738 - WARNING - Valores negativos encontrados: 1
+2026-10-05 14:18:03,739 - WARNING - Valores acima do limite encontrados: 1
+2026-10-05 14:18:03,739 - WARNING - Status invalidos encontrados: 1
+2026-10-05 14:18:03,739 - WARNING - Datas invalidas encontradas: 1
+2026-10-05 14:18:03,739 - INFO - Monitoramento finalizado com status: FALHA
+2026-10-05 14:27:22,346 - INFO - Inicio do monitoramento
+2026-10-05 14:27:22,377 - INFO - Arquivo CSV carregado com sucesso!
+2026-10-05 14:27:22,801 - WARNING - Valores ausentes encontrados: 4
+2026-10-05 14:27:22,802 - WARNING - Valores duplicados encontrados: 1
+2026-10-05 14:27:22,802 - WARNING - Valores negativos encontrados: 1
+2026-10-05 14:27:22,802 - WARNING - Valores acima do limite encontrados: 1
+2026-10-05 14:27:22,802 - WARNING - Status invalidos encontrados: 1
+2026-10-05 14:27:22,802 - WARNING - Datas invalidas encontradas: 1
+2026-10-05 14:27:22,802 - INFO - Monitoramento finalizado com status: FALHA

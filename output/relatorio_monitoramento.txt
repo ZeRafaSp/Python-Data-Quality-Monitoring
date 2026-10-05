@@ -1,0 +1,29 @@
+
+RELATÓRIO DE MONITORAMENTO
+==========================
+
+Data de execução: 2026-10-05 15:51:30.141313
+
+Registros analisados: 26
+Quantidade de problema: 9
+Percentual de problemas: 34.62%
+
+Valores ausentes: 4
+Duplicidades: 1
+Valores negativos: 1
+Valores acima do limite: 1
+Status inválidos: 1
+Datas inválidas: 1
+
+STATUS: FALHA
+
+Problemas criticos: 
+Datas invalidos: 1
+Status invalidos: 1
+
+Problemas em alerta:
+Valores ausentes: 4
+Duplicidades: 1
+Valores negativos: 1
+Valores acima do limite: 1
+
