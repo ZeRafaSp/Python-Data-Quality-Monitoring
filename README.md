@@ -227,9 +227,9 @@ Exemplo:
 
 ```env
 DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=data_monitoring
-DB_USER=postgres
+DB_PORT=5****
+DB_NAME=data******
+DB_USER=po*****
 DB_PASSWORD=sua_senha
 ```
 
