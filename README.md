@@ -306,6 +306,7 @@ Algumas melhorias podem ser adicionadas futuramente:
 ## Autor
 
 **José Rafael Santos Pereira**
+
 Analista de Dados | Business Intelligence | Data monitoring | Python | SQL | PostgreSQL
 
 Projeto desenvolvido como parte do portfólio de estudos em Dados, Automação e Qualidade de Dados.
