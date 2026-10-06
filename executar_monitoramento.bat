@@ -1,5 +1,7 @@
 @echo off
 
+cd /d "%~dp0"
+
 echo ========================================
 echo   MONITORAMENTO DE QUALIDADE DE DADOS
 echo ========================================
